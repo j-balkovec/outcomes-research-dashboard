@@ -1,1 +1,1 @@
-[cover](report/output/cover.png)
+![cover](report/output/cover.png)
